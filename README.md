@@ -1,3 +1,3 @@
-# My Karabinar Config
+## My Karabinar Config
 
 currently working with HHKB Professional BT

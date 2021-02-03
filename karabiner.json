@@ -16,14 +16,14 @@
                 },
                 "rules": [
                     {
-                        "description": "Left ctrl + hjkl to arrow keys Vim",
+                        "description": "Map Left Option plus h/j/k/l to Arrows",
                         "manipulators": [
                             {
                                 "from": {
                                     "key_code": "h",
                                     "modifiers": {
                                         "mandatory": [
-                                            "left_control"
+                                            "left_option"
                                         ],
                                         "optional": [
                                             "any"
@@ -42,7 +42,7 @@
                                     "key_code": "j",
                                     "modifiers": {
                                         "mandatory": [
-                                            "left_control"
+                                            "left_option"
                                         ],
                                         "optional": [
                                             "any"
@@ -61,7 +61,7 @@
                                     "key_code": "k",
                                     "modifiers": {
                                         "mandatory": [
-                                            "left_control"
+                                            "left_option"
                                         ],
                                         "optional": [
                                             "any"
@@ -80,7 +80,7 @@
                                     "key_code": "l",
                                     "modifiers": {
                                         "mandatory": [
-                                            "left_control"
+                                            "left_option"
                                         ],
                                         "optional": [
                                             "any"
@@ -312,6 +312,16 @@
             },
             "selected": true,
             "simple_modifications": [
+                {
+                    "from": {
+                        "key_code": "right_command"
+                    },
+                    "to": [
+                        {
+                            "key_code": "left_control"
+                        }
+                    ]
+                },
                 {
                     "from": {
                         "key_code": "right_option"

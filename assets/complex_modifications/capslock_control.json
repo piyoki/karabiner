@@ -1,8 +1,8 @@
 {
-	"title": "Post caps_lock if left_control is pressed alone for HHKB",
+	"title": "Single click Caps => Caps ; hold Caps => Control",
 	"rules": [
 		{
-			"description": "Post caps_lock if left_control is pressed alone for HHKB.",
+			"description": "Single click Caps => Caps ; hold Caps => Control",
 			"manipulators": [
 				{
 					"from": {

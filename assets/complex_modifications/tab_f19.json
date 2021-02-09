@@ -1,13 +1,13 @@
 {
-	"title": "right_option => Hyper(F19)",
+	"title": "Single click Tab => Tab ; hold Tab => Hyper(F19)",
 	"rules": [
 		{
-			"description": "right_option => Hyper(F19)",
+			"description": "Single click Tab => Tab ; hold Tab => Hyper(F19)",
 			"manipulators": [
 				{
 					"type": "basic",
 					"from": {
-						"key_code": "right_option",
+						"key_code": "tab",
 						"modifiers": {
 							"optional": ["any"]
 						}
@@ -20,7 +20,7 @@
 					],
 					"to_if_alone": [
 						{
-							"key_code": "f19"
+							"key_code": "tab"
 						}
 					]
 				}

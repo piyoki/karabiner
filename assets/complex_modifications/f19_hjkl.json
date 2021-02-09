@@ -1,14 +1,15 @@
 {
-	"title": "Left ctrl + hjkl to Arrow Keys Vim",
+	"title": "Hyper(F19) + h/j/k/l => Arrows",
 	"rules": [
 		{
-			"description": "Left ctrl + hjkl to arrow keys Vim",
+			"description": "Hyper(F19) + h/j/k/l => Arrows",
 			"manipulators": [
 				{
+					"type": "basic",
 					"from": {
 						"key_code": "h",
 						"modifiers": {
-							"mandatory": ["left_control"],
+							"mandatory": ["f19"],
 							"optional": ["any"]
 						}
 					},
@@ -16,14 +17,14 @@
 						{
 							"key_code": "left_arrow"
 						}
-					],
-					"type": "basic"
+					]
 				},
 				{
+					"type": "basic",
 					"from": {
 						"key_code": "j",
 						"modifiers": {
-							"mandatory": ["left_control"],
+							"mandatory": ["f19"],
 							"optional": ["any"]
 						}
 					},
@@ -31,14 +32,14 @@
 						{
 							"key_code": "down_arrow"
 						}
-					],
-					"type": "basic"
+					]
 				},
 				{
+					"type": "basic",
 					"from": {
 						"key_code": "k",
 						"modifiers": {
-							"mandatory": ["left_control"],
+							"mandatory": ["f19"],
 							"optional": ["any"]
 						}
 					},
@@ -46,14 +47,14 @@
 						{
 							"key_code": "up_arrow"
 						}
-					],
-					"type": "basic"
+					]
 				},
 				{
+					"type": "basic",
 					"from": {
 						"key_code": "l",
 						"modifiers": {
-							"mandatory": ["left_control"],
+							"mandatory": ["f19"],
 							"optional": ["any"]
 						}
 					},
@@ -61,8 +62,7 @@
 						{
 							"key_code": "right_arrow"
 						}
-					],
-					"type": "basic"
+					]
 				}
 			]
 		}

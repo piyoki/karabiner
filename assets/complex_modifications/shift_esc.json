@@ -1,8 +1,8 @@
 {
-	"title": "shift + esc to evaluate normal ~",
+	"title": "Shift + Esc => ~",
 	"rules": [
 		{
-			"description": "left_shift + esc to evavluate normal keyboard \"~\" for HHKB",
+			"description": "Left Shift + Esc => ~",
 			"manipulators": [
 				{
 					"from": {
@@ -22,7 +22,7 @@
 			]
 		},
 		{
-			"description": "right_shift + esc to evavluate normal keyboard \"~\" for HHKB",
+			"description": "Right Shift + Esc => ~",
 			"manipulators": [
 				{
 					"from": {

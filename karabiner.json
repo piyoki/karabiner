@@ -292,7 +292,7 @@
                         ]
                     },
                     {
-                        "description": "right_option => Hyper(F19)",
+                        "description": "[Right Option] => [Hyper(F19)]",
                         "manipulators": [
                             {
                                 "from": {

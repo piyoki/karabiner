@@ -1,8 +1,8 @@
 {
-	"title": "Single Click [Left Shift] => Select the previous inputsource",
+	"title": "Single Press [Left Shift] => Select the previous inputsource",
 	"rules": [
 		{
-			"description": "Single Click [Left Shift] => Select the previous inputsource",
+			"description": "Single Press [Left Shift] => Select the previous inputsource",
 			"manipulators": [
 				{
 					"type": "basic",

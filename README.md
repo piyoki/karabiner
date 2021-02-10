@@ -18,7 +18,7 @@ currently working with HHKB Professional BT
 
 ## Capslock & Control
 
-Single Click `Left Control` triggers `Capslock` as normal keyboard
+Single Press `Left Control` triggers `Capslock` as normal keyboard
 
 Hold `Left Control` triggers the normal `Control` functionality
 
@@ -44,7 +44,7 @@ Hold `Left Control` triggers the normal `Control` functionality
 
 ## Shift => Select Previous Input Method
 
-Single click `Left Shift` triggers the 'select previous input method' event
+Single Press `Left Shift` triggers the 'select previous input method' event
 
 Hold `Left Shift` triggers the normal `Shift` functionality as normal keyboard
 

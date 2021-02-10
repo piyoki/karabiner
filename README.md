@@ -44,9 +44,9 @@ Hold `Left Control` to trigger the normal `Control` functionality
 
 ## Shift => Select Previous Input Method
 
-Single Press `Left Shift` to trigger the 'select previous input method' event
+Single Press `Left Shift` to trigger the `Select Previous Input Method` event
 
-Double Press `Left Shift` to trigger the 'select previous input method' event
+Double Press `Left Shift` to trigger the `Select Previous Input Method` event
 
 Hold `Left Shift` triggers the normal `Shift` functionality as normal keyboard
 

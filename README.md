@@ -14,7 +14,7 @@ currently working with HHKB Professional BT
 
 `Tab` maps to `Hyper (f19)`
 
-[Configuration]()
+[Configuration](https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/f19.json?ts=2)
 
 ## Capslock & Control
 

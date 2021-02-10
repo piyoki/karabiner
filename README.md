@@ -20,7 +20,7 @@ currently working with HHKB Professional BT
 
 Single Press `Left Control` to trigger `Capslock` as normal keyboard
 
-Hold `Left Control` to to trigger the normal `Control` functionality
+Hold `Left Control` to trigger the normal `Control` functionality
 
 [Configuration](https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/capslock_control.json)
 

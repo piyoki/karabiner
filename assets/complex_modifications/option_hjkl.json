@@ -1,8 +1,8 @@
 {
-	"title": "Left Option + h/j/k/l => Arrows",
+	"title": "[Left Option] + [h/j/k/l] => [Arrows]",
 	"rules": [
 		{
-			"description": "Left Option + h/j/k/l => Arrows",
+			"description": "[Left Option] + [h/j/k/l] => [Arrows]",
 			"manipulators": [
 				{
 					"type": "basic",

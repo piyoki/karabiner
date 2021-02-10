@@ -1,8 +1,8 @@
 {
-	"title": "Single click Tab => Tab ; hold Tab => Hyper(F19)",
+	"title": "Single click [Tab] => [Tab] ; hold [Tab] => [Hyper(F19)]",
 	"rules": [
 		{
-			"description": "Single click Tab => Tab ; hold Tab => Hyper(F19)",
+			"description": "Single click [Tab] => [Tab] ; hold [Tab] => [Hyper(F19)]",
 			"manipulators": [
 				{
 					"type": "basic",

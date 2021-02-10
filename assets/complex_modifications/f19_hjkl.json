@@ -1,15 +1,20 @@
 {
-	"title": "Hyper(F19) + h/j/k/l => Arrows",
+	"title": "[Hyper(F19)] + [h/j/k/l] => [Arrows]",
 	"rules": [
 		{
-			"description": "Hyper(F19) + h/j/k/l => Arrows",
+			"description": "[Hyper(F19)] + [h/j/k/l] => [Arrows]",
 			"manipulators": [
 				{
 					"type": "basic",
 					"from": {
 						"key_code": "h",
 						"modifiers": {
-							"mandatory": ["f19"],
+							"mandatory": [
+								"left_shift",
+								"left_command",
+								"left_control",
+								"left_option"
+							],
 							"optional": ["any"]
 						}
 					},
@@ -24,7 +29,12 @@
 					"from": {
 						"key_code": "j",
 						"modifiers": {
-							"mandatory": ["f19"],
+							"mandatory": [
+								"left_shift",
+								"left_command",
+								"left_control",
+								"left_option"
+							],
 							"optional": ["any"]
 						}
 					},
@@ -39,7 +49,12 @@
 					"from": {
 						"key_code": "k",
 						"modifiers": {
-							"mandatory": ["f19"],
+							"mandatory": [
+								"left_shift",
+								"left_command",
+								"left_control",
+								"left_option"
+							],
 							"optional": ["any"]
 						}
 					},
@@ -54,7 +69,12 @@
 					"from": {
 						"key_code": "l",
 						"modifiers": {
-							"mandatory": ["f19"],
+							"mandatory": [
+								"left_shift",
+								"left_command",
+								"left_control",
+								"left_option"
+							],
 							"optional": ["any"]
 						}
 					},

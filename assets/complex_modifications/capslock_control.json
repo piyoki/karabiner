@@ -1,8 +1,8 @@
 {
-	"title": "Single click Caps => Caps ; hold Caps => Control",
+	"title": "Single click [Control] => [Cap ; hold [Control] => [Control]",
 	"rules": [
 		{
-			"description": "Single click Caps => Caps ; hold Caps => Control",
+			"description": "Single click [Control] => Caps ; hold [Control] => [Control]",
 			"manipulators": [
 				{
 					"from": {

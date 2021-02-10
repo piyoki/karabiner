@@ -1,8 +1,8 @@
 {
-	"title": "Shift + Esc => ~",
+	"title": "[Shift] + [Esc] => [~]",
 	"rules": [
 		{
-			"description": "Left Shift + Esc => ~",
+			"description": "[Left Shift] + [Esc] => [~]",
 			"manipulators": [
 				{
 					"from": {
@@ -22,7 +22,7 @@
 			]
 		},
 		{
-			"description": "Right Shift + Esc => ~",
+			"description": "[Right Shift] + [Esc] => [~]",
 			"manipulators": [
 				{
 					"from": {

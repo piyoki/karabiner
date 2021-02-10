@@ -1,8 +1,8 @@
 {
-	"title": "right_option => Hyper(F19)",
+	"title": "[Right Option] => [Hyper(F19)]",
 	"rules": [
 		{
-			"description": "right_option => Hyper(F19)",
+			"description": "[Right Option] => [Hyper(F19)]",
 			"manipulators": [
 				{
 					"type": "basic",

@@ -1,0 +1,25 @@
+{
+	"title": "[Right Command] => [Alfred]",
+	"rules": [
+		{
+			"description": "[Right Command] => [Alfred]",
+			"manipulators": [
+				{
+					"type": "basic",
+					"from": {
+						"key_code": "right_command",
+						"modifiers": {
+							"optional": ["any"]
+						}
+					},
+					"to": [
+						{
+							"key_code": "spacebar",
+							"modifiers": "left_option"
+						}
+					]
+				}
+			]
+		}
+	]
+}

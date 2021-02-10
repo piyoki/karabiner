@@ -48,4 +48,4 @@ Single click `Left Shift` triggers the 'select previous input method' event
 
 Hold `Left Shift` triggers the normal `Shift` functionality as normal keyboard
 
-[Configuration][]
+[Configuration][https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/shift_input_switch.json]

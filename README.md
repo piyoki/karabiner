@@ -12,7 +12,9 @@ currently working with HHKB Professional BT
 
 ## Tab => Hyper (19)
 
-`Tab` maps to `Hyper (f19)`
+Single Press `Tab` to trigger `Tab` as normal keyboard
+
+Hold `Tab` to trigger `Hyper (f19)`
 
 [Configuration](https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/f19.json?ts=2)
 

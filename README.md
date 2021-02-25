@@ -6,51 +6,49 @@ currently working with HHKB Professional BT
 
 ## Hyper (f19)
 
-<kbd>Hyper</kbd> + <Kbd>`h/j/k/l`</Kbd> maps to the `Arrow` keys
+<kbd>Hyper (f19)</kbd> + <Kbd>h/j/k/l</Kbd> maps to the <kbd>Arrow</kbd> keys
 
 [Configuration](https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/f19.json?ts=2)
 
 ## Tab => Hyper (19)
 
-Single Press `Tab` to trigger `Tab` as normal keyboard
+Single Press <kbd>Tab</kbd> to trigger <kbd>Tab</kbd> as normal keyboard
 
-Hold `Tab` to trigger `Hyper (f19)`
+Hold <kbd>Tab</kbd> to trigger <kbd>Hyper (f19)</kbd>
 
 [Configuration](https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/f19.json?ts=2)
 
 ## Capslock & Control
 
-Single Press `Left Control` to trigger `Capslock` as normal keyboard
+Single Press <kbd>Left Control</kbd> to trigger <kbd>Capslock</kbd> as normal keyboard
 
-Hold `Left Control` to trigger the normal `Control` functionality
+Hold <kbd>Left Control</kbd> to trigger the normal <kbd>Control</kbd> functionality
 
 [Configuration](https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/capslock_control.json?ts=2)
 
 ## Right Command => Alfred
 
-`Right Command` maps to toggle `Alfred`
+<kbd>Right Command</kbd> maps to toggle `Alfred`
 
 [Configuration](https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/right_cmd_alfred.json?ts=2)
 
 ## Right Option => Hyper (f19)
 
-`Right Option` maps to `Hyper (f19)`
+<kbd>Right Option</kbd> maps to <kbd>Hyper (f19)</kbd>
 
 [Configuration](https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/right_option_f19.json?ts=2)
 
 ## Shift + Esc => ~
 
-`Left/Right Shift` + `Esc` triggers `~` as normal keyboard
+<kbd>Shift</kbd> + <kbd>Esc</kbd> triggers <kbd>~</kbd> as normal keyboard
 
 [Configuration](https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/shift_esc.json?ts=2)
 
 ## Shift => Select Previous Input Method
 
-Single Press `Left Shift` to trigger the `Select Previous Input Method` event
+Double Press <kbd>Left Shift</kbd> to trigger the `Select Previous Input Method` event
 
-Double Press `Left Shift` to trigger the `Select Previous Input Method` event
-
-Hold `Left Shift` triggers the normal `Shift` functionality as normal keyboard
+Hold <kbd>Left Shift</kbd> triggers the normal <kbd>Shift</kbd> functionality as normal keyboard
 
 [Configuration](https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/shift_input_switch.json?ts=2)
 

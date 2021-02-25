@@ -623,7 +623,7 @@
                     ]
                 }
             ],
-            "name": "HHKB Professional",
+            "name": "HHKB Professional BT",
             "parameters": {
                 "delay_milliseconds_before_open_device": 1000
             },

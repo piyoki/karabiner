@@ -6,7 +6,7 @@ currently working with HHKB Professional BT
 
 ## Hyper (f19)
 
-<kbd>Hyper</kbd> + <Kbd>h/j/k/l</Kbd> maps to the `Arrow` keys
+<kbd>Hyper</kbd> + <Kbd>`h/j/k/l`</Kbd> maps to the `Arrow` keys
 
 [Configuration](https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/f19.json?ts=2)
 

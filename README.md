@@ -58,18 +58,18 @@ Hold `Left Shift` triggers the normal `Shift` functionality as normal keyboard
 
 ### Command Editing Shortcuts
 
-|            Shortcut            |                                                    Usage                                                     |
-| :----------------------------: | :----------------------------------------------------------------------------------------------------------: |
-| <kbd>Ctrl</kbd> + <kbd>A</kbd> |                                     Go to the start of the command line                                      |
-| <kbd>Ctrl</kbd> + <kbd>E</kbd> |                                      Go to the end of the command line                                       |
-| <kbd>Ctrl</kbd> + <kbd>D</kbd> |                              Delete from cursor to the end of the command line                               |
-| <kbd>Ctrl</kbd> + <kbd>Y</kbd> | paste word or text that was cut using one of the deletion shortcuts (such as the one above) after the cursor |
-| <kbd>Ctrl</kbd> + <kbd>F</kbd> |                                          Move forward one character                                          |
-| <kbd>Ctrl</kbd> + <kbd>B</kbd> |                                         Move backward one character                                          |
-| <kbd>Ctrl</kbd> + <kbd>P</kbd> |                                   Move to the beginning of the line above                                    |
-| <kbd>Ctrl</kbd> + <kbd>N</kbd> |                                   Move to the beginning of the line below                                    |
-| <kbd>Ctrl</kbd> + <kbd>D</kbd> |                                      Delete character under the cursor                                       |
-| <kbd>Ctrl</kbd> + <kbd>H</kbd> |                                      Delete character before the cursor                                      |
+|            Shortcut            |                                Usage                                |
+| :----------------------------: | :-----------------------------------------------------------------: |
+| <kbd>Ctrl</kbd> + <kbd>A</kbd> |                 Go to the start of the command line                 |
+| <kbd>Ctrl</kbd> + <kbd>E</kbd> |                  Go to the end of the command line                  |
+| <kbd>Ctrl</kbd> + <kbd>D</kbd> |          Delete from cursor to the end of the command line          |
+| <kbd>Ctrl</kbd> + <kbd>Y</kbd> | paste word or text that was cut using one of the deletion shortcuts |
+| <kbd>Ctrl</kbd> + <kbd>F</kbd> |                     Move forward one character                      |
+| <kbd>Ctrl</kbd> + <kbd>B</kbd> |                     Move backward one character                     |
+| <kbd>Ctrl</kbd> + <kbd>P</kbd> |               Move to the beginning of the line above               |
+| <kbd>Ctrl</kbd> + <kbd>N</kbd> |               Move to the beginning of the line below               |
+| <kbd>Ctrl</kbd> + <kbd>D</kbd> |                  Delete character under the cursor                  |
+| <kbd>Ctrl</kbd> + <kbd>H</kbd> |                 Delete character before the cursor                  |
 
 ### Command Control Shortcuts
 

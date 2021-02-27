@@ -1,6 +1,6 @@
 ## My Karabinar Config
 
-currently working with HHKB Professional BT
+currently working with HHKB Professional classic
 
 ![](https://github.com/yqlbu/karabinar/blob/master/hhkb.jpg?raw=true)
 

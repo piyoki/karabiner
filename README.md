@@ -1,6 +1,6 @@
 ## My Karabinar Config
 
-currently working with HHKB Professional Hybrid Type-S
+Currently working with HHKB Professional Hybrid Type-S
 
 ![](https://github.com/yqlbu/karabinar/blob/master/hhkb.jpg?raw=true)
 

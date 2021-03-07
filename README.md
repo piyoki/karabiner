@@ -56,24 +56,25 @@ Hold <kbd>Left Shift</kbd> triggers the normal <kbd>Shift</kbd> functionality as
 
 ### Command Editing Shortcuts
 
-|            Shortcut            |                            Usage                             |
-| :----------------------------: | :----------------------------------------------------------: |
-| <kbd>Ctrl</kbd> + <kbd>A</kbd> |             Go to the start of the command line              |
-| <kbd>Ctrl</kbd> + <kbd>E</kbd> |              Go to the end of the command line               |
-| <kbd>Ctrl</kbd> + <kbd>D</kbd> |      Delete from cursor to the end of the command line       |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd> |         Cut the text from after the cursor position          |
-| <kbd>Ctrl</kbd> + <kbd>U</kbd> |         Cut the text from before the cursor position         |
-| <kbd>Ctrl</kbd> + <kbd>Y</kbd> | paste word or text that was cut using one of the deletion shortcuts |
-| <kbd>Ctrl</kbd> + <kbd>F</kbd> |                  Move forward one character                  |
-| <kbd>Ctrl</kbd> + <kbd>B</kbd> |                 Move backward one character                  |
-| <kbd>Ctrl</kbd> + <kbd>P</kbd> |           Move to the beginning of the line above            |
-| <kbd>Ctrl</kbd> + <kbd>N</kbd> |           Move to the beginning of the line below            |
-| <kbd>Ctrl</kbd> + <kbd>D</kbd> |              Delete character under the cursor               |
-| <kbd>Ctrl</kbd> + <kbd>H</kbd> |              Delete character before the cursor              |
+|            Shortcut            |                       Usage                       |
+| :----------------------------: | :-----------------------------------------------: |
+| <kbd>Ctrl</kbd> + <kbd>A</kbd> |        Go to the start of the command line        |
+| <kbd>Ctrl</kbd> + <kbd>E</kbd> |         Go to the end of the command line         |
+| <kbd>Ctrl</kbd> + <kbd>D</kbd> | Delete from cursor to the end of the command line |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd> |    Cut the text from after the cursor position    |
+| <kbd>Ctrl</kbd> + <kbd>F</kbd> |            Move forward one character             |
+| <kbd>Ctrl</kbd> + <kbd>B</kbd> |            Move backward one character            |
+| <kbd>Ctrl</kbd> + <kbd>P</kbd> |      Move to the beginning of the line above      |
+| <kbd>Ctrl</kbd> + <kbd>N</kbd> |      Move to the beginning of the line below      |
+| <kbd>Ctrl</kbd> + <kbd>D</kbd> |         Delete character under the cursor         |
+| <kbd>Ctrl</kbd> + <kbd>H</kbd> |        Delete character before the cursor         |
 
 ### Command Control Shortcuts
 
-|            Shortcut            |         Usage         |
-| :----------------------------: | :-------------------: |
-| <kbd>Ctrl</kbd> + <kbd>L</kbd> |   clear the screen    |
-| <kbd>Ctrl</kbd> + <kbd>C</kbd> | terminate the command |
+|            Shortcut            |                            Usage                             |
+| :----------------------------: | :----------------------------------------------------------: |
+| <kbd>Ctrl</kbd> + <kbd>L</kbd> |                       clear the screen                       |
+| <kbd>Ctrl</kbd> + <kbd>C</kbd> |                    terminate the command                     |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd> |         Cut the text from after the cursor position          |
+| <kbd>Ctrl</kbd> + <kbd>U</kbd> |         Cut the text from before the cursor position         |
+| <kbd>Ctrl</kbd> + <kbd>Y</kbd> | paste word or text that was cut using one of the deletion shortcuts |

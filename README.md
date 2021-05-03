@@ -78,4 +78,6 @@ Hold <kbd>Left Shift</kbd> triggers the normal <kbd>Shift</kbd> functionality as
 | <kbd>Ctrl</kbd> + <kbd>K</kbd> |         Cut the text from after the cursor position          |
 | <kbd>Ctrl</kbd> + <kbd>U</kbd> |         Cut the text from before the cursor position         |
 | <kbd>Ctrl</kbd> + <kbd>W</kbd> |        Cut the previous word from the cursor position        |
-| <kbd>Ctrl</kbd> + <kbd>Y</kbd> | paste word or text that was cut using one of the deletion shortcuts |
+| <kbd>Ctrl</kbd> + <kbd>Y</kbd> | Paste word or text that was cut using one of the deletion shortcuts |
+| <kbd>Esc</kbd> + <kbd>b</kbd>  |               Move cursor to the previous word               |
+| <kbd>Esc</kbd> + <kbd>f</kbd>  |                 Move cursor to the next word                 |

@@ -81,3 +81,23 @@ Hold <kbd>Left Shift</kbd> triggers the normal <kbd>Shift</kbd> functionality as
 | <kbd>Ctrl</kbd> + <kbd>Y</kbd> | Paste word or text that was cut using one of the deletion shortcuts |
 | <kbd>Esc</kbd> + <kbd>b</kbd>  |               Move cursor to the previous word               |
 | <kbd>Esc</kbd> + <kbd>f</kbd>  |                 Move cursor to the next word                 |
+| <kbd>Cmd</kbd> + <kbd>b</kbd>  | Move cursor to the previous word  (see [iTerm configuration](#move-word-to-word-forward-and-backward) below) |
+| <kbd>Cmd</kbd> + <kbd>f</kbd>  | Move cursor to the next word  (see [iTerm configuration](#move-word-to-word-forward-and-backward) below) |
+
+## iTerm Configuration
+
+### Move word-to-word forward and backward
+
+- Install iTerm2
+- Launch and then go to the `preference` pane
+- Click the `+` button to add a new keyboard shortcut
+- In the first box type <kbd>Cmd</kbd> + <kbd>Left Arrow</kbd>
+- In the second box choose `send escape sequence`
+- In the third box type the letter <kbd>b</kbd>
+
+- Click the `+` button to add a new keyboard shortcut
+- In the first box type <kbd>Cmd</kbd> + <kbd>Right Arrow</kbd>
+- In the second box choose `send escape sequence`
+- In the third box type the letter <kbd>f</kbd>
+
+**NOTE**: the above configuration re-map the key combinations for word-to-word movement. <kbd>Esc</kbd> + <kbd>f</kbd> moves one word to the right, and <kbd>Esc</kbd> + <kbd>b</kbd> moves one word to the left, 

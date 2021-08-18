@@ -1,0 +1,25 @@
+{
+  "title": "[] => [Hyper(F19)]",
+  "rules": [
+    {
+      "description": "[Right Shift] => [Hyper(F19)]",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "right_shift",
+            "modifiers": {
+              "optional": ["any"]
+            }
+          },
+          "to": [
+            {
+              "key_code": "left_shift",
+              "modifiers": ["left_command", "left_control", "left_option"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

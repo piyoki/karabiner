@@ -4,19 +4,9 @@ Currently working with HHKB Professional Hybrid Type-S
 
 ![](https://github.com/yqlbu/karabinar/blob/master/hhkb.jpg?raw=true)
 
-## Hyper (f19)
+## Right Shift + HHKB Arrows => Arrows
 
-<kbd>Hyper (f19)</kbd> + <Kbd>h/j/k/l</Kbd> maps to the <kbd>Arrow</kbd> keys
-
-[Configuration](https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/f19.json?ts=2)
-
-## Tab => Hyper (19)
-
-Single Press <kbd>Tab</kbd> to trigger <kbd>Tab</kbd> as normal keyboard
-
-Hold <kbd>Tab</kbd> to trigger <kbd>Hyper (f19)</kbd>
-
-[Configuration](https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/f19.json?ts=2)
+<kbd>Right Shift</kbd> + <Kbd>HHKB Arrows</Kbd> maps to the <kbd>Arrow</kbd> keys
 
 ## Capslock & Control
 
@@ -24,33 +14,23 @@ Single Press <kbd>Left Control</kbd> to trigger <kbd>Capslock</kbd> as normal ke
 
 Hold <kbd>Left Control</kbd> to trigger the normal <kbd>Control</kbd> functionality
 
-[Configuration](https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/capslock_control.json?ts=2)
-
 ## Right Command => Alfred
 
 <kbd>Right Command</kbd> maps to toggle `Alfred`
-
-[Configuration](https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/right_cmd_alfred.json?ts=2)
 
 ## Right Option => Hyper (f19)
 
 <kbd>Right Option</kbd> maps to <kbd>Hyper (f19)</kbd>
 
-[Configuration](https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/right_option_f19.json?ts=2)
-
 ## Shift + Esc => ~
 
 <kbd>Shift</kbd> + <kbd>Esc</kbd> triggers <kbd>~</kbd> as normal keyboard
-
-[Configuration](https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/shift_esc.json?ts=2)
 
 ## Shift => Select Previous Input Method
 
 Double Press <kbd>Left Shift</kbd> to trigger the `Select Previous Input Method` event
 
 Hold <kbd>Left Shift</kbd> triggers the normal <kbd>Shift</kbd> functionality as normal keyboard
-
-[Configuration](https://github.com/yqlbu/karabinar/blob/master/assets/complex_modifications/shift_input_switch.json?ts=2)
 
 ## Shortcuts
 
@@ -71,18 +51,18 @@ Hold <kbd>Left Shift</kbd> triggers the normal <kbd>Shift</kbd> functionality as
 
 ### Command Control Shortcuts
 
-|            Shortcut            |                            Usage                             |
-| :----------------------------: | :----------------------------------------------------------: |
-| <kbd>Ctrl</kbd> + <kbd>L</kbd> |                       clear the screen                       |
-| <kbd>Ctrl</kbd> + <kbd>C</kbd> |                    terminate the command                     |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd> |         Cut the text from after the cursor position          |
-| <kbd>Ctrl</kbd> + <kbd>U</kbd> |         Cut the text from before the cursor position         |
-| <kbd>Ctrl</kbd> + <kbd>W</kbd> |        Cut the previous word from the cursor position        |
-| <kbd>Ctrl</kbd> + <kbd>Y</kbd> | Paste word or text that was cut using one of the deletion shortcuts |
-| <kbd>Esc</kbd> + <kbd>b</kbd>  |               Move cursor to the previous word               |
-| <kbd>Esc</kbd> + <kbd>f</kbd>  |                 Move cursor to the next word                 |
-| <kbd>Cmd</kbd> + <kbd>b</kbd>  | Move cursor to the previous word  (see [iTerm configuration](#move-word-to-word-forward-and-backward) below) |
-| <kbd>Cmd</kbd> + <kbd>f</kbd>  | Move cursor to the next word  (see [iTerm configuration](#move-word-to-word-forward-and-backward) below) |
+|            Shortcut            |                                                    Usage                                                    |
+| :----------------------------: | :---------------------------------------------------------------------------------------------------------: |
+| <kbd>Ctrl</kbd> + <kbd>L</kbd> |                                              clear the screen                                               |
+| <kbd>Ctrl</kbd> + <kbd>C</kbd> |                                            terminate the command                                            |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd> |                                 Cut the text from after the cursor position                                 |
+| <kbd>Ctrl</kbd> + <kbd>U</kbd> |                                Cut the text from before the cursor position                                 |
+| <kbd>Ctrl</kbd> + <kbd>W</kbd> |                               Cut the previous word from the cursor position                                |
+| <kbd>Ctrl</kbd> + <kbd>Y</kbd> |                     Paste word or text that was cut using one of the deletion shortcuts                     |
+| <kbd>Esc</kbd> + <kbd>b</kbd>  |                                      Move cursor to the previous word                                       |
+| <kbd>Esc</kbd> + <kbd>f</kbd>  |                                        Move cursor to the next word                                         |
+| <kbd>Cmd</kbd> + <kbd>b</kbd>  | Move cursor to the previous word (see [iTerm configuration](#move-word-to-word-forward-and-backward) below) |
+| <kbd>Cmd</kbd> + <kbd>f</kbd>  |   Move cursor to the next word (see [iTerm configuration](#move-word-to-word-forward-and-backward) below)   |
 
 ## iTerm Configuration
 
@@ -100,4 +80,4 @@ Hold <kbd>Left Shift</kbd> triggers the normal <kbd>Shift</kbd> functionality as
 - In the second box choose `send escape sequence`
 - In the third box type the letter <kbd>f</kbd>
 
-**NOTE**: the above configuration re-map the key combinations for word-to-word movement. <kbd>Esc</kbd> + <kbd>f</kbd> moves one word to the right, and <kbd>Esc</kbd> + <kbd>b</kbd> moves one word to the left, 
+**NOTE**: the above configuration re-map the key combinations for word-to-word movement. <kbd>Esc</kbd> + <kbd>f</kbd> moves one word to the right, and <kbd>Esc</kbd> + <kbd>b</kbd> moves one word to the left,

@@ -16,6 +16,33 @@
                 },
                 "rules": [
                     {
+                        "description": "Single click [Control] => Caps ; hold [Control] => [Control]",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "left_control",
+                                    "modifiers": {
+                                        "optional": [
+                                            "any"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "left_control"
+                                    }
+                                ],
+                                "to_if_alone": [
+                                    {
+                                        "hold_down_milliseconds": 100,
+                                        "key_code": "caps_lock"
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
+                    },
+                    {
                         "description": "Single click [Tab] => [Tab] ; hold [Tab] => [Hyper(F19)]",
                         "manipulators": [
                             {
@@ -485,19 +512,6 @@
                     "ignore": false,
                     "manipulate_caps_lock_led": true,
                     "simple_modifications": []
-                },
-                {
-                    "disable_built_in_keyboard_if_exists": false,
-                    "fn_function_keys": [],
-                    "identifiers": {
-                        "is_keyboard": true,
-                        "is_pointing_device": true,
-                        "product_id": 4897,
-                        "vendor_id": 17498
-                    },
-                    "ignore": false,
-                    "manipulate_caps_lock_led": true,
-                    "simple_modifications": []
                 }
             ],
             "fn_function_keys": [
@@ -507,7 +521,7 @@
                     },
                     "to": [
                         {
-                            "consumer_key_code": "volume_decrement"
+                            "consumer_key_code": "mute"
                         }
                     ]
                 },
@@ -517,7 +531,7 @@
                     },
                     "to": [
                         {
-                            "consumer_key_code": "volume_increment"
+                            "consumer_key_code": "volume_decrement"
                         }
                     ]
                 },
@@ -527,7 +541,7 @@
                     },
                     "to": [
                         {
-                            "consumer_key_code": "mute"
+                            "consumer_key_code": "volume_increment"
                         }
                     ]
                 },
@@ -626,7 +640,7 @@
             "parameters": {
                 "delay_milliseconds_before_open_device": 1000
             },
-            "selected": true,
+            "selected": false,
             "simple_modifications": [],
             "virtual_hid_keyboard": {
                 "country_code": 0,
@@ -644,6 +658,33 @@
                     "mouse_motion_to_scroll.speed": 100
                 },
                 "rules": [
+                    {
+                        "description": "Single press [Control] => Caps ; hold [Control] => [Control]",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "left_control",
+                                    "modifiers": {
+                                        "optional": [
+                                            "any"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "left_control"
+                                    }
+                                ],
+                                "to_if_alone": [
+                                    {
+                                        "hold_down_milliseconds": 100,
+                                        "key_code": "caps_lock"
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
+                    },
                     {
                         "description": "Double Press [Left Shift] => Select the previous inputsource",
                         "manipulators": [
@@ -1129,7 +1170,7 @@
             "parameters": {
                 "delay_milliseconds_before_open_device": 1000
             },
-            "selected": false,
+            "selected": true,
             "simple_modifications": [],
             "virtual_hid_keyboard": {
                 "country_code": 0,

@@ -69,7 +69,7 @@ Hold <kbd>Left Shift</kbd> triggers the normal <kbd>Shift</kbd> functionality as
 ### Move word-to-word forward and backward
 
 - Install iTerm2
-- Launch and then go to the `preference` pane
+- Launch and then go to `keys` > `keybindings`
 - Click the `+` button to add a new keyboard shortcut
 - In the first box type <kbd>Cmd</kbd> + <kbd>Left Arrow</kbd>
 - In the second box choose `send escape sequence`
